@@ -1,5 +1,1 @@
-{
-  "language": "python3-http",
-  "description": "Python 3 HTTP template",
-  "welcome_message": "You have created a new function using the python3-http template."
-}
+{"repository":"https://github.com/openfaas/python-flask-template","sha":"7d886f47e60232b0ee9002a64b6af2ef02589b74","written_at":"2026-11-14T16:50:06.8153153-06:00"}
