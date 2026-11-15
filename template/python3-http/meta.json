@@ -1,0 +1,5 @@
+{
+  "language": "python3-http",
+  "description": "Python 3 HTTP template",
+  "welcome_message": "You have created a new function using the python3-http template."
+}
